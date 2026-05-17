@@ -1,2 +1,20 @@
-# Udemy-Clone-Website
-Created a responsive front-end clone of Udemy using HTML and CSS, replicating key sections like navigation, course listings, banners, and footer. Focused on responsive design, layout structuring, and improving frontend development skills with modern UI styling.
+# Udemy Clone Website
+
+Developed a responsive front-end clone of the Udemy online learning platform using HTML and CSS. The project replicates the core layout and design of the original website, including a navigation bar, course categories, featured courses, banners, and footer sections. Focused on building a clean user interface, responsive design, and improving frontend development skills through layout structuring, styling, and webpage organization.
+
+# Key Features
+
+- Responsive navigation bar  
+- Course cards with images and details  
+- Categories section  
+- Promotional banner/hero section  
+- Footer with useful links  
+- Mobile-friendly layout  
+
+# Technologies Used
+
+- HTML5  
+- CSS3  
+- Google Fonts  
+- Font Awesome
+  
